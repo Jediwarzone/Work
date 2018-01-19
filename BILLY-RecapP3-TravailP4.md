@@ -120,10 +120,10 @@ NUMERO |  TACHES
 #19    |`Envois mail confirmation dépôt annonce`        |
 
 
-   - Préparation du Sprint 1 (Tâches + maquettes)
+## Préparation du Sprint 1 (Tâches + maquettes)
 
    EN COURS
 
-   - Réparition des binômes
+## Réparition des binômes
 
    EN COURS
