@@ -54,8 +54,7 @@ Socle de développement (document)	                  | `FCAN`&`SLAC`       | **1
 
 ### Graphique avec répartition du Travail par ressource
 
-![Graphique Taches P3](/JUNI-Periode4/GraphiquesTachesP3.png)
-![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
+![Graphique Taches P3](/GraphiquesTachesP3.png)
 
 ### Tableau de répartition de la création des maquettes
 
