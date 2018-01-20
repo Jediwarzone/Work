@@ -4,6 +4,8 @@
 
 ### TRAN - HIRED GUN
 
+![TRAN](/tran.png)
+
 ----
 |TALENT | DESCRIPTION | COÛTS  | ACQUIS | TYPE
 |- |- | :-: | :-: | :-:
@@ -26,7 +28,7 @@
 |PRECISION MORTELLE   | Une fois acquis, choisissez 1 compétence de combat. Ajoutez des dégâts équivalents aux grades de cette compétence à un coup d'une attaque réussie effectuée en utilisant cette compétence. | 25 Pts | NON | Passif    
 |OBJECTIF REEL  | Une fois par tour, peut effectuer une manœuvre OBJECTIF REEL pour obtenir des avantages de viser et de mettre à jour la vérification de combat une fois par rang de OBJECTIF REEL. | 25 Pts | NON | Actif
 |DEVOUEMENT  | Gain +1 à une seule caractéristique. Cela ne peut pas apporter une caractéristique au-dessus de 6. | 25 Pts | NON | Passif
-|OBJECTIF REEL  | Une fois par tour, peut effectuer une manœuvre OBJECTIF REEL pour obtenir des avantages de viser et de mettre à jour la vérification de combat une fois par rang de OBJECTIF REEL. | 25 Pts | NON | Actif 
+|OBJECTIF REEL  | Une fois par tour, peut effectuer une manœuvre OBJECTIF REEL pour obtenir des avantages de viser et de mettre à jour la vérification de combat une fois par rang de OBJECTIF REEL. | 25 Pts | NON | Actif
 
 ### OKERA - SORESU GUARDIAN
 
