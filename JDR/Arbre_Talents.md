@@ -4,8 +4,8 @@
 
 ### TRAN - HIRED GUN
 
-![TRAN](/https://github.com/Jediwarzone/Work/blob/master/JDR/tran.png)
-![TRAN2](/tran.png)
+![TRAN](https://raw.githubusercontent.com/Jediwarzone/Work/master/JDR/tran.png)
+
 ----
 |TALENT | DESCRIPTION | COÛTS  | ACQUIS | TYPE
 |- |- | :-: | :-: | :-:
