@@ -1,5 +1,14 @@
 ![BILLY](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/BILLY-1.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # **Préparation pour récapitulatif du 22/01/2018**
 
 # Récapitulatif de la Période 3
@@ -24,13 +33,19 @@ Plan d'intégration      |  v 2.2   | Mineure | Définition du type intégration
 Plan de test            |  v 2.2   | Mineure | Plus d'explications sur les tests unitaires
 Usine Logicielle        |  v 2.2   | Mineure | Cycle de développement et architecture logicielle
 
-## Liste et mises à jour des livrables de gestion :
+## Liste et mise à jour des livrables de gestion :
 
 NOM DU LIVRABLE          | VERSIONS |   MàJ   | EXPLICATIONS
 :----------------------- | :------: | :-----: | :----------------------------------------------------------
 Portefeuille des risques |  v 2.2   | Mineure | Explication des résultats des actions curatives
 Planification            |  v 2.0   | Majeure | définition du MVP - Planning Poker - Définition du Sprint 1
 Dashboard Chef de projet |  v 2.52  | Mineure | Evolution et màj des indicateurs
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Liste complète du travail effectué par chaque ressource
 
@@ -60,6 +75,12 @@ Création de la charte SI                           | `LIQI`&`JUNI`
 Création et déploiement de l'environnement Symfony | `RBOI`&`KPOL`
 Création de la base de l'application               | `FCAN`&`JUNI`
 Socle de développement (document)                  | `FCAN`&`RBOI`
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Graphique avec répartition du Travail par ressource
 
@@ -98,7 +119,7 @@ _Maquettes_           | NBRU
   - 19 tâches
   - Création de la partie vendeur - loueur
 
-  - Tâches répartis par binômes
+- Tâches répartis par binômes
 
 RESSOURCE 1 | RESSOURCE 2
 :---------: | :---------:
@@ -115,5 +136,3 @@ RESSOURCE 1 | RESSOURCE 2
 - Mettre à jour le portefeuille de risques avec les risques rencontrés et les solutions utilisées (ainsi que leurs effets positifs ou négatifs)
 - Mettre en place les CRAH
 - Préparer le COPIL du 02 Février 2018
-
-![BILLY2](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/BILLY-2.png)
