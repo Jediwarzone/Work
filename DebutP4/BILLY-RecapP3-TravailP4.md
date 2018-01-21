@@ -62,7 +62,7 @@ Socle de développement (document)	                  | `FCAN`&`RBOI`
 
 ### Graphique avec répartition du Travail par ressource
 
-![Graphique Taches P3](/DebutG4/GraphiquesTachesP3.png)
+![Graphique Taches P3](/DebutP4/GraphiquesTachesP3.png)
 
 ### Tableau de répartition de la création des maquettes
 
