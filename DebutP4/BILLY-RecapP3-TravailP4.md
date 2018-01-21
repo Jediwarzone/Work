@@ -11,15 +11,14 @@
 
 ## Liste et modifications des livrables P2 à corriger :
 
-NOM DU LIVRABLE        | VERSIONS | MàJ         | EXPLICATIONS           
-:-                     | :-:      | :-:         | :-             
-Architecture Technique | v 3.0    | Majeure     | Mise à jour du MCD et du MLD
-Cadrage Technique      | v 2.2    | Mineure     | Ajout de contenu et explications sur les choix
-Compte-Rendu de KickOff| v 2.1    | Majeure     | Remplace la prédécente V2 - versionning erronée
-Plan d'intégration     | v 2.2    | Mineure     | Définition du type intégration & explications des outils
-Plan de test           | v 2.2    | Mineure     | Plus d'explications sur les tests unitaires
-Usine Logicielle       | v 2.2    | Mineure     | Cycle de développement et architecture logicielle
-
+NOM DU LIVRABLE          | VERSIONS | MàJ       | EXPLICATIONS           
+:-                       | :-:      | :-:       | :-             
+Architecture Technique   | v 3.0    | Majeure   | Mise à jour du MCD et du MLD
+Cadrage Technique        | v 2.2    | Mineure   | Ajout de contenu et explications sur les choix
+Compte-Rendu de KickOff  | v 2.1    | Majeure   | Remplace la prédécente V2 - versionning erronée
+Plan d'intégration       | v 2.2    | Mineure   | Définition du type intégration & explications des outils
+Plan de test             | v 2.2    | Mineure   | Plus d'explications sur les tests unitaires
+Usine Logicielle         | v 2.2    | Mineure   | Cycle de développement et architecture logicielle
 
 ## Liste et mises à jour des livrables de gestion :
 
@@ -29,8 +28,6 @@ Portefeuille des risques | v 2.2    | Mineure | Explication des résultats des a
 Planification            | v 2.0    | Majeure | définition du MVP - Planning Poker - Définition du Sprint 1
 Dashboard Chef de projet | v 2.52   | Mineure | Evolution et màj des indicateurs
 
-
-
 ## Liste complète du travail effectué par chaque ressource
 
 TACHES                                              | RESSOURCES          
@@ -38,12 +35,12 @@ TACHES                                              | RESSOURCES
 Univers graphique                                   | `SLAC`&`RMAG`            
 Mockups Application Android	                        | `RMAG`&`SLAC`       
 Création des mockups                                | `RMAG`&`SLAC`       
-Mockups Backoffice                      	          | `APER`              
+    - *Mockups Backoffice*                      	  | `APER`              
 Mockups Site internet                       	      | `NBRU`             
 Maquettes principales                               |	`RMAG`&`NBRU`&`APER`
-Maquettes Application Android                       |	`RMAG`              
-Maquettes Backoffice                                |	`APER`              
-Maquettes Site internet	                            | `NBRU`              
+  - *Maquettes Application Android*                 |	`RMAG`              
+  - *Maquettes Backoffice*                          |	`APER`              
+  - *Maquettes Site internet*	                      | `NBRU`              
 Mise en place du serveur GIT - Mobile               |	`MFER`              
 Mise en place du serveur GIT - Web	                | `RBOI`              
 Mise en place du serveur web                        |	`RBOI`              
@@ -58,7 +55,7 @@ Màj CR de KickOff                                   |	`JUNI`
 Création de la charte SI                            |	`LIQI`&`JUNI`       
 Création et déploiement de l'environnement Symfony	| `RBOI`&`KPOL`       
 Création de la base de l'application                |	`FCAN`&`JUNI`       
-Socle de développement (document)	                  | `FCAN`&`RBOI`       
+Socle de développement (document)	                  | `FCAN`&`RBOI`      
 
 ### Graphique avec répartition du Travail par ressource
 
@@ -84,21 +81,25 @@ TACHES	              |   RESSOURCES
 
 # **Présentation de la Période 4**
 
-   - Lister les tâches sur Gitlab
+## 1 - **DEVELOPPEMENT**
 
+### Liste les tâches sur Gitlab
 
-## Tâches WEB = 12 TACHES
-- 12 TACHES
-- concernant le back office
+- Tâches WEB
+    - 12 tâches
+    - Création du back office
+- Tâches MOBILE
+    - 19 tâches
+    - Création de la partie vendeur - loueur
 
-## Tâches MOBILE = 19 TACHES
-- 19 TACHES
-- création de la partie vendeur / loueur
+ - Tâches répartis par binômes
 
-## Préparation du Sprint 1 (Tâches + maquettes)
+RESSOURCE 1	|   RESSOURCE 2    
+:-:         |   :-:         
+KPOL        | VCIS
+ABOI        | APER
+ACOR        | NBRU
+ABOI        | SLAC
+FCAN        | LIQI
 
-   EN COURS
-
-## Réparition des binômes
-
-   EN COURS
+## 2 - **DOCUMENTS & GESTION**
