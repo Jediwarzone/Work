@@ -39,12 +39,12 @@ TACHES                                             | RESSOURCES
 Univers graphique                                  | `SLAC`&`RMAG`
 Mockups Application Android                        | `RMAG`&`SLAC`
 Création des mockups                               | `RMAG`&`SLAC`
-- _Mockups Backoffice_                             | `APER`
+_Mockups Backoffice_                               | `APER`
 Mockups Site internet                              | `NBRU`
 Maquettes principales                              | `RMAG`&`NBRU`&`APER`
-- _Maquettes Application Android_                  | `RMAG`
-- _Maquettes Backoffice_                           | `APER`
-- _Maquettes Site internet_                        | `NBRU`
+_Maquettes Application Android_                    | `RMAG`
+_Maquettes Backoffice_                             | `APER`
+_Maquettes Site internet_                          | `NBRU`
 Mise en place du serveur GIT - Mobile              | `MFER`
 Mise en place du serveur GIT - Web                 | `RBOI`
 Mise en place du serveur web                       | `RBOI`
