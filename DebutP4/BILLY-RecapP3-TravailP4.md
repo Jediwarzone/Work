@@ -1,8 +1,6 @@
-# **Préparation pour récapitulatif du 22/01/2018**
-
 ![BILLY](/DebutP4/BILLY-1.png)
-![BILLY2](/DebutP4/BILLY-2.png)
 
+# **Préparation pour récapitulatif du 22/01/2018**
 
 # Récapitulatif de la Période 3
 ## Liste des tâches effectuées en Période 3
@@ -114,3 +112,5 @@ FCAN        | LIQI
 - Mettre à jour le portefeuille de risques avec les risques rencontrés et les solutions utilisées (ainsi que leurs effets positifs ou négatifs)
 - Mettre en place les CRAH
 - Préparer le COPIL du 02 Février 2018
+
+![BILLY2](/DebutP4/BILLY-2.png)
