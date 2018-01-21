@@ -7,7 +7,7 @@
 
 ----
 |TALENT | DESCRIPTION | COÛTS  | ACQUIS | TYPE | NECESSITE
-|- |- | :-: | :-: | :-: | :-:  
+|- |- | :-: | :-: | :-: | :-  
 |COMMANDER  | Ajouter (N Dé vert) par rang de COMMANDER pour les contrôles de leadership. Les cibles affectées ajoutent (N Dé vert) aux contrôles Discipline pour les prochaines 24 heures.  | 5 Pts | NON | Passif   
 |SECOND SOUFFLE I | Une fois par combat, peut utiliser SECOND SOUFFLE pour soigner le Stress égal au rang de SECOND SOUFFLE. | 5 Pts | NON | Actif
 |A BOUT PORTANT I | Ajoutez 1 point de dommage par rang de A BOUT PORTANT à l'attaque d'un coup réussi d'attaques à distance (lourdes) ou (légères) effectuées à courte distance ou pendant le combat. | 5 Pts | NON | Passif
