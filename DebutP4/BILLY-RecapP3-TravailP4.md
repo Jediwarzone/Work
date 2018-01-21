@@ -1,27 +1,36 @@
-# **Récapitulatif de la Période 3**
-
+# **Préparation pour récapitulatif du 22/01/2018**
+# Récapitulatif de la Période 3
 ## Liste des tâches effectués en Période 3
 
-    Evolution des livrables de gestion & management
-    Création des mockups
-    Création des maquettes
-    Mise en place des serveurs
-    Mise en place de l'environnement
-    Mise à jour des livrables Période 2 (liste ci dessous)
+Evolution des livrables de gestion & management
+Création des mockups
+Création des maquettes
+Mise en place des serveurs
+Mise en place de l'environnement
+Mise à jour des livrables Période 2 (liste ci dessous)
 
 ## Liste et modifications des livrables à corriger :
 
-    Cadrage Technique       
-    Architecture Technique  
-    Usine Logicielle        
-    Plan de test            
-    Plan d'intégration      
-    Compte-Rendu de KickOff
 
-## Lister et mettre à jour les livrables de gestion :
+NOM DU LIVRABLE        | VERSIONS | MàJ         | EXPLICATIONS           
+ :-                    | :-:      | :-:         | :-             
+Architecture Technique | v 3.0    | Maj majeure | MCD&MLD)
+Cadrage Technique      | v 2.2    | Maj mineure | mon erreur, upload du mauvais document // ajout de contenu et explications sur les choix)
+Compte-Rendu de KickOff| v 2.0    | Maj majeure | (Remplace la prédécente V2 - versionning erronée)
+Plan d'intégration     | v .0     | Maj mineure | (type intégration & outils)
+Plan de test           | v .0     | Maj mineure | ( + explication sur tests unitaires )
+Usine Logicielle       | v .0     | Maj mineure | cycle de développement et architecture logicielle
 
-    Gestion des risques     :
-    Planification           :
+
+## Liste et mises à jour des livrables de gestion :
+
+NOM DU LIVRABLE         | VERSIONS | MàJ         | EXPLICATIONS           
+ :-                     | :-:      | :-:         | :-             
+Gestion des risques     | v .     | Maj  | portefeuille des risques - Maj mineure (résultat des actions curatives)
+Planification           | v .    | Maj  | définition du MVP - Planning Poker - Définition du Sprint 1
+Dashboard Chef de projet| v .    | Maj  |
+
+
 
 ## Liste complète du travail effectué par chaque ressource
 
@@ -74,13 +83,15 @@ TACHES	              |   RESSOURCES
 -----
 -----
 
-# **Préparation de la Période 4**
+# **Présentation de la Période 4**
 
-   - Lister les tâches sur Gitlab
+   - Lister les tâches sur Gitlab :
+   MOBILE : https://gitlab.com/dateImmo/billy/issues
+   WEB : https://gitlab.com/Roix/DateImmo/issues
 
 ## Tâches WEB
 
-NUMERO |  TACHES                               
+ID     |  FONCTIONNALITE                               
 ---    |   ---                                 
 #1     |`Se connecter au back-office`          |
 #2     |`Se déconnecter du back-office`        |
@@ -97,14 +108,14 @@ NUMERO |  TACHES
 
 ## Tâches MOBILE
 
-NUMERO |  TACHES                               
+ID     |  FONCTIONNALITE                               
 ---    |   ---                                 
-#1     |`Création écran d'accueil`                      |
-#2     |`Créer le formulaire d’inscription`             |
-#3     |`Confirmation mail`                             |
-#4     |`Créer le formulaire de connexion`              |
+#1     |`Création de l'écran d'accueil`                      |
+#2     |`Création du formulaire d’inscription`             |
+#3     |`Confirmation par email`                             |
+#4     |`Création du formulaire de connexion`              |
 #5     |`Confirmation mail récupération`                |
-#6     |`Mdp oublié`                                    |
+#6     |`Configuration du mot de passe oublié`                                    |
 #7     |`Saisie nouveau mot de passe`                   |
 #8     |`Créer le menu`                                 |
 #9     |`Formulaire dépôt d'annonce`                    |
