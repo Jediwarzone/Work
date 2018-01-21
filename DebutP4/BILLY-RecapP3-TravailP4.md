@@ -13,22 +13,22 @@ Mise à jour des livrables Période 2 (liste ci dessous)
 
 
 NOM DU LIVRABLE        | VERSIONS | MàJ         | EXPLICATIONS           
- :-                    | :-:      | :-:         | :-             
-Architecture Technique | v 3.0    | Maj majeure | MCD&MLD)
-Cadrage Technique      | v 2.2    | Maj mineure | mon erreur, upload du mauvais document // ajout de contenu et explications sur les choix)
-Compte-Rendu de KickOff| v 2.0    | Maj majeure | (Remplace la prédécente V2 - versionning erronée)
-Plan d'intégration     | v .0     | Maj mineure | (type intégration & outils)
-Plan de test           | v .0     | Maj mineure | ( + explication sur tests unitaires )
-Usine Logicielle       | v .0     | Maj mineure | cycle de développement et architecture logicielle
+:-                     | :-:      | :-:         | :-             
+Architecture Technique | v 3.0    | Majeure     | Mise à jour du MCD et du MLD
+Cadrage Technique      | v 2.2    | Mineure     | Ajout de contenu et explications sur les choix
+Compte-Rendu de KickOff| v 2.1    | Majeure     | Remplace la prédécente V2 - versionning erronée
+Plan d'intégration     | v 2.2    | Mineure     | Définition du type intégration & explications des outils
+Plan de test           | v 2.2    | Mineure     | Plus d'explications sur les tests unitaires
+Usine Logicielle       | v 2.2    | Mineure     | Cycle de développement et architecture logicielle
 
 
 ## Liste et mises à jour des livrables de gestion :
 
-NOM DU LIVRABLE         | VERSIONS | MàJ         | EXPLICATIONS           
- :-                     | :-:      | :-:         | :-             
-Gestion des risques     | v .     | Maj  | portefeuille des risques - Maj mineure (résultat des actions curatives)
-Planification           | v .    | Maj  | définition du MVP - Planning Poker - Définition du Sprint 1
-Dashboard Chef de projet| v .    | Maj  |
+NOM DU LIVRABLE         | VERSIONS | MàJ     | EXPLICATIONS           
+:-                      | :-:      | :-:     | :-             
+Gestion des risques     | v .      | Mineure | Explication des résultats des actions curatives
+Planification           | v 2.0      | Majeure | définition du MVP - Planning Poker - Définition du Sprint 1
+Dashboard Chef de projet| v .      | Mineure |
 
 
 
