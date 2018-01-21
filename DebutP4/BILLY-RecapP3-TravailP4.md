@@ -35,7 +35,7 @@ Dashboard Chef de projet | v 2.52   | Mineure | Evolution et màj des indicateur
 
 TACHES                                              | RESSOURCES          
 ---                                                 |   ---               
-Univers graphique                                   | `SLAC`              
+Univers graphique                                   | `SLAC`&`RMAG`            
 Mockups Application Android	                        | `RMAG`&`SLAC`       
 Création des mockups                                | `RMAG`&`SLAC`       
 Mockups Backoffice                      	          | `APER`              
@@ -84,51 +84,16 @@ TACHES	              |   RESSOURCES
 
 # **Présentation de la Période 4**
 
-   - Lister les tâches sur Gitlab :
-   MOBILE : https://gitlab.com/dateImmo/billy/issues
-   WEB : https://gitlab.com/Roix/DateImmo/issues
+   - Lister les tâches sur Gitlab
 
-## Tâches WEB
 
-ID     |  FONCTIONNALITE                               
----    |   ---                                 
-#1     |`Se connecter au back-office`          |
-#2     |`Se déconnecter du back-office`        |
-#3     |`Consulter la liste des annonces`      |
-#4     |`Modifier une annonce`                 |
-#5     |`Supprimer une annonce`                |
-#6     |`Consulter les annonces signalées`     |
-#7     |`Annuler le signalement d'une annonce` |
-#8     |`Supprimer une annonce signalée`       |
-#9     |`Modifier une annonce signalée`        |
-#10    |`Consulter la liste des utilisateurs`  |
-#11    |`Modifier un utilisateur`              |
-#12    |`Supprimer un utilisateur`             |
+## Tâches WEB = 12 TACHES
+- 12 TACHES
+- concernant le back office
 
-## Tâches MOBILE
-
-ID     |  FONCTIONNALITE                               
----    |   ---                                 
-#1     |`Création de l'écran d'accueil`                      |
-#2     |`Création du formulaire d’inscription`             |
-#3     |`Confirmation par email`                             |
-#4     |`Création du formulaire de connexion`              |
-#5     |`Confirmation mail récupération`                |
-#6     |`Configuration du mot de passe oublié`                                    |
-#7     |`Saisie nouveau mot de passe`                   |
-#8     |`Créer le menu`                                 |
-#9     |`Formulaire dépôt d'annonce`                    |
-#10    |`Visualiser le nb de char de la description`    |
-#11    |`Vue choix photo + popup caméra/galerie`        |
-#12    |`import photo depuis la galerie`                |
-#13    |`import photo depuis appareil photo`            |
-#14    |`insertion des images sélectionnées dans la vue`|
-#15    |`Changement de l'image star`                    |
-#16    |`Proposition d'achat images sup`                |
-#17    |`Publication de l'annonce`                      |
-#18    |`Enregistrer annonce sans publier`              |
-#19    |`Envois mail confirmation dépôt annonce`        |
-
+## Tâches MOBILE = 19 TACHES
+- 19 TACHES
+- création de la partie vendeur / loueur
 
 ## Préparation du Sprint 1 (Tâches + maquettes)
 
