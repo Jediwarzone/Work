@@ -103,3 +103,9 @@ ABOI        | SLAC
 FCAN        | LIQI
 
 ## 2 - **DOCUMENTS & GESTION**
+
+- Travailler sur le retour P2 et P3 (Corrections ou modifications sur livrables)
+- Utiliser les outils de pilotage (Burndown / Kanban / Dashboard)
+- Mettre à jour le portefeuille de risques avec les risques rencontrés et les solutions utilisées (ainsi que leurs effets positifs ou négatifs)
+- Mettre en place les CRAH
+- Préparer le COPIL du 02 Février 2018
