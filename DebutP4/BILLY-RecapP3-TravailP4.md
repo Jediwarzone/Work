@@ -1,4 +1,9 @@
 # **Préparation pour récapitulatif du 22/01/2018**
+
+![BILLY](/DebutP4/BILLY-1.png)
+![BILLY2](/DebutP4/BILLY-2.png)
+
+
 # Récapitulatif de la Période 3
 ## Liste des tâches effectuées en Période 3
 
