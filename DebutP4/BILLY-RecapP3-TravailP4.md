@@ -71,16 +71,16 @@ TACHES                | RESSOURCES
 --------------------- | ----------
 **Univers graphique** | SLAC
 **Application**       | RMAG
---_Mockups_           | RMAG/SLAC
---_Maquettes_         | RMAG
+_Mockups_             | RMAG/SLAC
+_Maquettes_           | RMAG
 **Backoffice**        | APER
---_Mockups_           | APER
---_Maquettes_         | APER
+_Mockups_             | APER
+_Maquettes_           | APER
 **Site**              | NBRU
---_Mockups_           | NBRU
---_Maquettes_         | NBRU
+_Mockups_             | NBRU
+_Maquettes_           | NBRU
 
-## -----
+--------------------------------------------------------------------------------
 
 # **Présentation de la Période 4**
 
@@ -98,7 +98,15 @@ TACHES                | RESSOURCES
   - 19 tâches
   - Création de la partie vendeur - loueur
 
-  - Tâches répartis par binômes RESSOURCE 1 | RESSOURCE 2 :----------:|:----------: KPOL | VCIS ABOI | APER ACOR | NBRU ABOI | SLAC FCAN | LIQI
+  - Tâches répartis par binômes
+
+RESSOURCE 1 | RESSOURCE 2
+:---------: | :---------:
+   KPOL     |    VCIS
+   ABOI     |    APER
+   ACOR     |    NBRU
+   ABOI     |    SLAC
+   FCAN     |    LIQI
 
 ## 2 - **DOCUMENTS & GESTION**
 
