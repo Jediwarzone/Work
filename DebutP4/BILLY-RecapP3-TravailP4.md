@@ -1,6 +1,6 @@
 ![BILLY](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/BILLY-1.png)
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 # **Préparation pour récapitulatif du 22/01/2018**
 
@@ -94,9 +94,9 @@ Manque de compétences (design / livrables)    |  Curative   |  Mise en place de
 Un ou plusieurs membre(s) absent(s) du projet | Préventive  |  Mise en place de binôme  |  Positives
 Problème d'installation d'environnement       |  Curative   | Accompagnement et support |  Positives
 
-**La mise en place de binôme aura été l'action préventive la plus efficace mise en place car elle a permis de répondre à plusieurs risques pour les contrer.**
+**La mise en place de binôme aura été l'action préventive la plus efficace mise en place car elle a permis de répondre à plusieurs risques pour les contrer.**<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
---------------------------------------------------------------------------------
+## <br>
 
 # **Présentation de la Période 4**
 
