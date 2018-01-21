@@ -82,10 +82,6 @@ Socle de développement (document)                  | `FCAN`&`RBOI`
 <br>
 <br>
 
-### Graphique avec répartition du Travail par ressource
-
-![Graphique Taches P3](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/GraphiquesTachesP3.png)
-
 ### Tableau de répartition de la création des maquettes
 
 TACHES                | RESSOURCES
@@ -100,6 +96,20 @@ _Maquettes_           | APER
 **Site**              | NBRU
 _Mockups_             | NBRU
 _Maquettes_           | NBRU
+
+### Graphique avec répartition du Travail par ressource
+
+![Graphique Taches P3](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/GraphiquesTachesP3.png)
+
+### Gestion des risques rencontrés
+
+RISQUES RENCONTRES                            | TYPE ACTION |          ACTION           | CONSEQUENCES
+:-------------------------------------------- | :---------: | :-----------------------: | :----------:
+Manque de compétences (design / livrables)    |  Curative   |  Mise en place de binôme  |  Positives
+Un ou plusieurs membre(s) absent(s) du projet | Préventive  |  Mise en place de binôme  |  Positives
+Problème d'installation d'environnement       |  Curative   | Accompagnement et support |  Positives
+
+**La mise en place de binôme aura été l'action préventive la plus efficace mise en place car elle a permis de répondre à plusieurs risques pour les contrer.**
 
 --------------------------------------------------------------------------------
 
