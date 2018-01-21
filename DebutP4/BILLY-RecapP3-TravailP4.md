@@ -1,16 +1,15 @@
 # **Préparation pour récapitulatif du 22/01/2018**
 # Récapitulatif de la Période 3
-## Liste des tâches effectués en Période 3
+## Liste des tâches effectuées en Période 3
 
-Evolution des livrables de gestion & management
-Création des mockups
-Création des maquettes
-Mise en place des serveurs
-Mise en place de l'environnement
-Mise à jour des livrables Période 2 (liste ci dessous)
+- Evolution des livrables de gestion & management
+- Création des mockups
+- Création des maquettes
+- Mise en place des serveurs
+- Mise en place de l'environnement
+- Mise à jour des livrables Période 2 (liste ci dessous)
 
-## Liste et modifications des livrables à corriger :
-
+## Liste et modifications des livrables P2 à corriger :
 
 NOM DU LIVRABLE        | VERSIONS | MàJ         | EXPLICATIONS           
 :-                     | :-:      | :-:         | :-             
@@ -24,11 +23,11 @@ Usine Logicielle       | v 2.2    | Mineure     | Cycle de développement et arc
 
 ## Liste et mises à jour des livrables de gestion :
 
-NOM DU LIVRABLE         | VERSIONS | MàJ     | EXPLICATIONS           
-:-                      | :-:      | :-:     | :-             
-Gestion des risques     | v .      | Mineure | Explication des résultats des actions curatives
-Planification           | v 2.0      | Majeure | définition du MVP - Planning Poker - Définition du Sprint 1
-Dashboard Chef de projet| v .      | Mineure |
+NOM DU LIVRABLE          | VERSIONS | MàJ     | EXPLICATIONS           
+:-                       | :-:      | :-:     | :-             
+Portefeuille des risques | v 2.2    | Mineure | Explication des résultats des actions curatives
+Planification            | v 2.0    | Majeure | définition du MVP - Planning Poker - Définition du Sprint 1
+Dashboard Chef de projet | v 2.52   | Mineure | Evolution et màj des indicateurs
 
 
 
@@ -59,11 +58,11 @@ Màj CR de KickOff                                   |	`JUNI`
 Création de la charte SI                            |	`LIQI`&`JUNI`       
 Création et déploiement de l'environnement Symfony	| `RBOI`&`KPOL`       
 Création de la base de l'application                |	`FCAN`&`JUNI`       
-Socle de développement (document)	                  | `FCAN`&`SLAC`       
+Socle de développement (document)	                  | `FCAN`&`RBOI`       
 
 ### Graphique avec répartition du Travail par ressource
 
-![Graphique Taches P3](/GraphiquesTachesP3.png)
+![Graphique Taches P3](/DebutG4/GraphiquesTachesP3.png)
 
 ### Tableau de répartition de la création des maquettes
 
