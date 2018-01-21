@@ -25,32 +25,32 @@
 
 ## Liste complète du travail effectué par chaque ressource
 
-TACHES                                              | RESSOURCES          | POIDS
----                                                 |   ---               | ---
-Univers graphique                                   | `SLAC`              | **5**
-Mockups Application Android	                        | `RMAG`&`SLAC`       | **2**
-Création des mockups                                | `RMAG`&`SLAC`       | **3**
-Mockups Backoffice                      	          | `APER`              | **2**
-Mockups Site internet                       	      | `NBRU`              | **2**
-Maquettes principales                               |	`RMAG`&`NBRU`&`APER`| **3**
-Maquettes Application Android                       |	`RMAG`              | **2**
-Maquettes Backoffice                                |	`APER`              | **2**
-Maquettes Site internet	                            | `NBRU`              | **2**
-Mise en place du serveur GIT - Mobile               |	`MFER`              | **1**
-Mise en place du serveur GIT - Web	                | `RBOI`              | **1**
-Mise en place du serveur web                        |	`RBOI`              | **1**
-Màj Cadrage Technique                               |	`FCAN`&`RBOI`       | **3**
-Màj Architecture Technique                          |	`KPOL`&`ACOR`       | **3**
-Màj Usine Logicielle                                |	`MFER`&`APER`       | **3**
-Màj Gestion des risques	                            | `NBRU`&`JUNI`       | **1**
-Màj planification                                   |	`VCIS`&`SLAC`&`ABOI`| **4**
-Màj plan de test                                    |	`ABOI`&`JUNI`       | **1**
-Màj Plan d'intégration 	                            | `RBOI`              | **1**
-Màj CR de KickOff                                   |	`JUNI`              | **1**
-Création de la charte SI                            |	`LIQI`&`JUNI`       | **2**
-Création et déploiement de l'environnement Symfony	| `RBOI`&`KPOL`       | **2**
-Création de la base de l'application                |	`FCAN`&`JUNI`       | **1**
-Socle de développement (document)	                  | `FCAN`&`SLAC`       | **1**
+TACHES                                              | RESSOURCES          
+---                                                 |   ---               
+Univers graphique                                   | `SLAC`              
+Mockups Application Android	                        | `RMAG`&`SLAC`       
+Création des mockups                                | `RMAG`&`SLAC`       
+Mockups Backoffice                      	          | `APER`              
+Mockups Site internet                       	      | `NBRU`             
+Maquettes principales                               |	`RMAG`&`NBRU`&`APER`
+Maquettes Application Android                       |	`RMAG`              
+Maquettes Backoffice                                |	`APER`              
+Maquettes Site internet	                            | `NBRU`              
+Mise en place du serveur GIT - Mobile               |	`MFER`              
+Mise en place du serveur GIT - Web	                | `RBOI`              
+Mise en place du serveur web                        |	`RBOI`              
+Màj Cadrage Technique                               |	`FCAN`&`RBOI`       
+Màj Architecture Technique                          |	`KPOL`&`ACOR`       
+Màj Usine Logicielle                                |	`MFER`&`APER`       
+Màj Gestion des risques	                            | `NBRU`&`JUNI`       
+Màj planification                                   |	`VCIS`&`SLAC`&`ABOI`
+Màj plan de test                                    |	`ABOI`&`JUNI`       
+Màj Plan d'intégration 	                            | `RBOI`              
+Màj CR de KickOff                                   |	`JUNI`              
+Création de la charte SI                            |	`LIQI`&`JUNI`       
+Création et déploiement de l'environnement Symfony	| `RBOI`&`KPOL`       
+Création de la base de l'application                |	`FCAN`&`JUNI`       
+Socle de développement (document)	                  | `FCAN`&`SLAC`       
 
 ### Graphique avec répartition du Travail par ressource
 
