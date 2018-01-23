@@ -116,20 +116,34 @@ Problème d'installation d'environnement       |  Curative   | Accompagnement et
 
 - Tâches répartis par binômes
 
-RESSOURCE 1 | RESSOURCE 2
-:---------: | :---------:
-   KPOL     |    VCIS
-   ABOI     |    APER
-   ACOR     |    NBRU
-   ABOI     |    SLAC
-   FCAN     |    LIQI
+RESSOURCE 1 | RESSOURCE 2 | EQUIPE
+:---------: | :---------: | :----:
+   KPOL     |    VCIS     |    1
+   ABOI     |    APER     |    2
+   ACOR     |    NBRU     |    3
+   RBOI     |    SLAC     |    4
+   FCAN     |    LIQI     |    5
 
 ## 2 - **DOCUMENTS & GESTION**
 
 - Travailler sur le retour P2 et P3 (Corrections ou modifications sur livrables)
-- Utiliser les outils de pilotage (Burndown / Kanban / Dashboard)
+- Utiliser les outils de pilotage (Burndown / Kanban / Dashboard / gitlab)
 - Mettre à jour le portefeuille de risques avec les risques rencontrés et les solutions utilisées (ainsi que leurs effets positifs ou négatifs)
-- Mettre en place les CRAH
-- Préparer le COPIL du 02 Février 2018
+- Mettre en place les CRAH (non pénalisé si erreur dans CRAH - livré 1 par semaine/par groupe + 1 crah par semaine)
+- Préparer le COPIL du 02 Février 2018 (mettre des objectifs et voir si on les a atteint et pourquoi) + compte rendu
+- Business plan à modifier et mettre à jour
+- backlog mise à jour
+- graphique : suivi charge et des couts
+
+- COPIL : Ce qui était prévu -> Ce qui a été fait -> Ce qui manque et pourquoi ça manque -> Ce que l'on fera pour la suite
+  - mise en perspective du projet
+  - KPI
+  - faits marquants
+  - objectifs à atteindre
+  - etats des lieux
+  - etats d'avancement
+  - point qualité (business plan + avancé)
+  - point financier avec analyse des charges
+  - outils et process de management (analyse sur process utilisé avec prise de décision quand façon de travailler pas bonne)
 
 ![BILLY](https://raw.githubusercontent.com/Jediwarzone/Work/master/DebutP4/BILLY-1.png)
