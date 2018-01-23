@@ -8,45 +8,34 @@
 
 - [x] Faire un tableau de présence pour référéncer les présents (ou un endroit pour noter les absences)
 
-- [ ] Lister le temps des taches (de gitlab vers excel) **= EN COURS**
+- [ ] Lister le temps des taches (de gitlab vers excel)
 
-- [ ] indicateur de dev et d'intégration **= A FAIRE**
+- [ ] Indicateur de dev et d'intégration
 
-- [ ] checker le poids des taches par binome (travail réalisé) **= A FAIRE**
+- [ ] Checker le poids des taches par binome (travail réalisé)
 
-- [ ] définir le template d'un CRAH **= A FAIRE**
+- [ ] Définir le template d'un CRAH
 
-- [ ] ajouter les points importants de chaque doc dans la charte SI (en 5-10 points) **= A FAIRE**
+- [ ] Ajouter les points importants de chaque doc dans la charte SI (en 5-10 points)
 
-- [x] google form pour les demandes de notes de fin de période **= OK**
+- [x] Google form pour les demandes de notes de fin de période
 
-- [ ] Clean les channels sur Slack **= A FAIRE**
+- [ ] Clean les channels sur Slack
 
-- [ ] Faire un chan retour sur expérience **= A FAIRE**
+- [ ] Faire un chan retour sur expérience
 
-- [ ] Noter pour le copil : **= A FAIRE**
+- [ ] Noter pour le copil :
 
   - [ ] Préparer les feuilles de style et les intégrer au socle de développement avant les sprints.
   - [ ] Préparer les chaines "string"
   - [ ] Images toutes en PNG mais nécessite un format SVG pour adaptation aux différents formats mobiles.
+  - [ ] Trop de granularités pour les fonctionnalités. Certains tâches auraient pû être groupées pour n'en former qu'une.
 
-## sur dashboard
+## Retour sur dashboard
 
-- [ ] homogéneiser les échelles de graphiques
-- [ ] faire une page ac indicateur qualité humaine par personne
-- [ ] éclaircir les % sur le dashboard
-
-## Ergonomie : exercice à rendre le 26 janvier à 23h59
-
-Appliquer la démarche ergonomique sur l'interface de votre choix Les étapes de la démarche :
-
-- Réaliser un audit de l'interface : identifier les problèmes = **OK**
-- Définir la cible : créer le/les personas = **OK**
-- Mener un test utilisateur = _En cours (JUNI)_
-- Faire des propositions d'amélioration = _En cours (APER)_
-
-  - En tenant compte des principes de l'ergonomie (12 règles)
-  - Sous forme de mockups, maquettes, zoning, architecture de l'information, cahier de charges, spécifications, ...
+- [ ] Homogéneiser les échelles de graphiques
+- [ ] Faire une page ac indicateur qualité humaine par personne
+- [ ] Eclaircir les % sur le dashboard
 
 ## Notes pour prochaines périodes
 
