@@ -12,51 +12,45 @@
 
 ## Interventions extérieures
 
-Marine et Kévin
-Altran
-Kevin : 4IM + master IAE Aix + 2 ans BI + consultant
+Marine et Kévin Altran Kevin : 4IM + master IAE Aix + 2 ans BI + consultant
 
-chef de projet : + amoa que chef de projet
-AMOA : poste à pourvoir
-receuil analyse du besoin + spe tech et fonctionnalités + tests + formation utilsateur + conduite du changement
+chef de projet : + amoa que chef de projet AMOA : poste à pourvoir receuil analyse du besoin + spe tech et fonctionnalités + tests + formation utilsateur + conduite du changement
 
--------
+--------------------------------------------------------------------------------
 
 ## Conseils pour emails
 
-Email pour recrutement :
-Un titre parlant
-Une personnalisation (nom, intitulé de poste, ...)
-Une contextualisation (actualités de la société, postes, ouverts, ...)
-Une adaptation du wording
+- Email pour recrutement : Un titre parlant Une personnalisation (nom, intitulé de poste, ...) Une contextualisation (actualités de la société, postes, ouverts, ...) Une adaptation du wording
 
-Envoi d'email :
+### Envoi d'email :
+
 - Pas le lundi matin et le vendredi après midi
 - Proche des moments de retour du bureau
 - dans certains cas le weekend
 
-Avant l'entretien :
+### Avant l'entretien :
+
 - Rappelez le rapidement
 - Laissez un message si pas de réponse avant 2 essais
-- Maitrisez les éléments de votre candidature
-(expériences, loisirs, disponibilités, prétentions)
+- Maitrisez les éléments de votre candidature (expériences, loisirs, disponibilités, prétentions)
 
-Pendant l'entretien :
+### Pendant l'entretien :
+
 - Ponctualité
 - Proactivité
 - Prise de notes
 - Poser des questions
 
-Après l'entretien :
+### Après l'entretien :
+
 - email de remerciements avec 2/3 éléments de l'entretien
 
-------
+--------------------------------------------------------------------------------
 
 ## Titre de niveau II - Concepteur Developpeur Informatique
 
-Titre niveau 2 - Concepteur developpeur informatique
-Même thématique que l'an dernier
-Trois modules à valider pour le titre
+Titre niveau 2 - Concepteur developpeur informatique Même thématique que l'an dernier Trois modules à valider pour le titre
+
 - Développement N-tiers (MVC)
 - Créer / utiliser une BDD
 - Interface utilisateur

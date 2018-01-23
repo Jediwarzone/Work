@@ -228,7 +228,7 @@ Vendredi |    5/5     |     5/5
 
 ### Prises de notes patch et briefings
 
-- ### Prise de notes mentoring
+### Prise de notes mentoring
 
 - Ne pas prendre les échecs ou les injustices comme personnelles et en tirer du bénéfique et des leçons pour l'avenir.
 
@@ -244,9 +244,9 @@ Vendredi |    5/5     |     5/5
 
 ### Etat des lieux de début de période
 
-Situation(s) rencontrée(s)  | Résolution si problème ?
-:-------------------------- | :----------------------:
-Bonne fin de première année |            -
+Situation(s) rencontrée(s)                 |               Résolution si problème ?
+:----------------------------------------- | :--------------------------------------------------:
+Pblème de mise en place de l'environnement | Prévoir des patchs d'installation de l'environnement
 
 ### Etat des lieux de fin de période
 
@@ -262,8 +262,8 @@ Bonne fin de première année |            -
 
   Jour   | Motivation | Appartenance
 :------: | :--------: | :----------:
- Lundi   |    -/5     |     -/5
- Mardi   |    -/5     |     -/5
+ Lundi   |    5/5     |     5/5
+ Mardi   |    5/5     |     5/5
 Mercredi |    -/5     |     -/5
  Jeudi   |    -/5     |     -/5
 Vendredi |    -/5     |     -/5
@@ -277,3 +277,9 @@ Vendredi |    -/5     |     -/5
 Mercredi |    -/5     |     -/5
  Jeudi   |    -/5     |     -/5
 Vendredi |    -/5     |     -/5
+
+### Prises de notes patch et briefings
+
+### Prise de notes mentoring
+
+- Le dashboard du chef de projet doit permettre de prendre la température sur le projet. il doit permettre d'un rapide coup d'oeil d'avoir une idée globale sur l'état d'avancée générale du projet ainsi que quelques renseignements plus détaillés. Les autres pages doivent permettre de pouvoir zoomer dans tels ou tels parties.
