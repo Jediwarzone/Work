@@ -21,6 +21,15 @@
 
 - google form pour les demandes de notes de fin de période
 
+- temps estimé de la tache : comprends le temps d'intégration et le temps de test
+
+- Clean les channels sur Slack
+- Faire un chan retour sur expérience
+- Noter pour le copil :
+
+  - Préparer les feuilles de style et les intégrer au socle de développement avant les sprints.
+  - Préparer les chaines "string"
+
 ## sur dashboard
 
 - prends la température sur le dashboard
@@ -54,3 +63,12 @@ Gérer les évenements tels que :
 Tests de l'attrakdiff
 
 - A utiliser pour notes l'utilisation de notre logiciel
+
+## Parrot
+
+d'abord : ManInTheMiddle puis monitor et Kick
+
+- sudo bettercap -X (mettre en man in the middle)
+- ouvrir nouveau terminal : sudo etherape
+- node : trier en traffic accumulé
+- ifconfig pour connaitre notre adresse ip

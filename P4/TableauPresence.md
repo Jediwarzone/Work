@@ -1,29 +1,35 @@
-# Tableau de présence pour référéncer les présents
+# Tableau de présence
 
 ## Semaine 1
 
-  Jour   | Lundi | Mardi |   Mercredi   | Jeudi | Vendredi
-:------: | :---: | :----------: | :------: | :--------: | :----------:
- RBOI   |    3/5     |     5/5|   Jour   | Motivation | Appartenance
- ABOI   |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-NBRU |    4/5     |     5/5|   Jour   | Motivation | Appartenance
- FCAN   |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-ACOR |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-MFER |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-SLAC |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-RMAG |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-APER |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-KPOL |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-LIQI |    4/5     |     5/5|   Jour   | Motivation | Appartenance
-JUNI |    4/5     |     5/5|   Jour   | Motivation | Appartenance
+   //     |     LUNDI     |    MARDI     |  MERCREDI   |    JEUDI    |  VENDREDI
+:-------: | :-----------: | :----------: | :---------: | :---------: | :---------:
+**KPOL**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**VCIS**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**ABOI**  |     6 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**APER**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**NBRU**  |     7 / 7     |    0 / 8     |    - / 5    |    - / 5    |    - / 1
+**ACOR**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**RBOI**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**SLAC**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**LIQI**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**FCAN**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**RMAG**  |     7 / 7     |    8 / 8     |    - / 5    |    - / 5    |    - / 1
+**TOTAL** | **76h / 77h** | **80h/ 88h** | **- / 55h** | **- / 55h** | **- / 11h**
 
+## Semaine 2
 
-##d Semaine 2
-
-  Jour   | Motivation | Appartenance
-:------: | :--------: | :----------:
- Lundi   |    5/5     |     5/5
- Mardi   |    2/5     |     2/5
-Mercredi |    3/5     |     3/5
- Jeudi   |    4/5     |     4/5
-Vendredi |    5/5     |     5/5
+   //     |    LUNDI    |    MARDI    |  MERCREDI   |    JEUDI    |  VENDREDI
+:-------: | :---------: | :---------: | :---------: | :---------: | :---------:
+**KPOL**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**VCIS**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**ABOI**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**APER**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**NBRU**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**ACOR**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**RBOI**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**SLAC**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**LIQI**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**FCAN**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**RMAG**  |    - / 3    |    - / 8    |    - / 5    |    - / 1    |    - / 1
+**TOTAL** | **- / 33h** | **- / 88h** | **- / 55h** | **- / 11h** | **- / 11h**
