@@ -1,3 +1,17 @@
+# Devoirs
+
+## Ergonomie : exercice à rendre le 26 janvier à 23h59
+
+Appliquer la démarche ergonomique sur l'interface de votre choix Les étapes de la démarche :
+
+- Réaliser un audit de l'interface : identifier les problèmes = **OK**
+- Définir la cible : créer le/les personas = _En cours(JUNI) - Terminé Persona Alex_
+- Mener un test utilisateur = _En cours (JUNI)_
+- Faire des propositions d'amélioration = _En cours (APER)_
+
+  - En tenant compte des principes de l'ergonomie (12 règles)
+  - Sous forme de mockups, maquettes, zoning, architecture de l'information, cahier de charges, spécifications, ...
+
 # Evenement G4
 
 ## Planning

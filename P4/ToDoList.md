@@ -6,15 +6,17 @@
 
 # A faire :
 
-- [x] Faire un tableau de présence pour référéncer les présents (ou un endroit pour noter les absences)
+- [x] Faire un tableau de présence pour référéncer les présents
 
 - [x] Lister le temps des taches (de gitlab vers excel)
 
 - [ ] Terminer de lister les temps pour les taches
+
   - [x] MOBILE
   - [ ] WEB
 
 - [ ] Rajouter RBOI en tant que Lead Developpeur Web (SLAC = FRONT / RBOI = BACK)
+
   - RBOI reprends l'ensemble des taches gitlab pour les diviser en deux groupes de taches (une pour SLAC et une RBOI)
 
 - [ ] Indicateur de dev et d'intégration --> Ajouter dans le SprintBacklog, nécessite d'être ajouter pour gestion des KPI
@@ -23,11 +25,18 @@
 
 - [ ] Définir le template d'un CRAH
 
-- [ ] Ajouter les points importants de chaque doc dans la charte SI (en 5-10 points)
+- [ ] Terminez la charte SI
+
+  - [ ] Ajouter les points importants de chaque doc dans la charte SI (en 5-10 points)
+  - [ ] Définir les couleurs pour chaque type de fiche
 
 - [x] Google form pour les demandes de notes de fin de période
 
-- [ ] Clean les channels sur Slack
+- [x] Clean les channels sur Slack
+
+- [ ] Préparer les groupes d'emails
+
+- [ ] Redéfinir le doc de sprint backlog
 
 - [ ] Faire un chan retour sur expérience
 

@@ -30,7 +30,7 @@ TACHES | EQUIPE | TEMPS PREVU | TEMPS PASSE
 **13** |        |    _3_ h    |      h
 **14** |        |    _3_ h    |      h
 **15** |        |    _3_ h    |      h
-16 |        |    _3_ h    |      h
+  16   |        |    _3_ h    |      h
 **17** |        |    _3_ h    |      h
 **18** |        |    _3_ h    |      h
 **19** |        |    _3_ h    |      h
