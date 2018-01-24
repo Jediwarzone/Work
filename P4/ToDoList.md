@@ -8,9 +8,16 @@
 
 - [x] Faire un tableau de présence pour référéncer les présents (ou un endroit pour noter les absences)
 
-- [ ] Lister le temps des taches (de gitlab vers excel)
+- [x] Lister le temps des taches (de gitlab vers excel)
 
-- [ ] Indicateur de dev et d'intégration
+- [ ] Terminer de lister les temps pour les taches
+  - [x] MOBILE
+  - [ ] WEB
+
+- [ ] Rajouter RBOI en tant que Lead Developpeur Web (SLAC = FRONT / RBOI = BACK)
+  - RBOI reprends l'ensemble des taches gitlab pour les diviser en deux groupes de taches (une pour SLAC et une RBOI)
+
+- [ ] Indicateur de dev et d'intégration --> Ajouter dans le SprintBacklog, nécessite d'être ajouter pour gestion des KPI
 
 - [ ] Checker le poids des taches par binome (travail réalisé)
 
