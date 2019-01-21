@@ -24,3 +24,16 @@
 - **git merge <nom-branche>** : Pour fusionner une branche dans la branche active
 - **git diff --base <nom-fichier** Permet de lister les conflits
 - **git fetch origin** : Permet à un utilisateur d’extraire tous les fichiers du dépôt distant qui ne sont pas actuellement dans le répertoire de travail local
+
+
+## Lancer un nouveau projet à partir d'un existant et envoyer un fichier
+1. Se mettre sur le bureau ou endroit où on souhaite entreposer le projet de l'autre
+2. Faire un git clone à l'adresse du git visé => *git clone https://github.com/vincentcistoldi/Tuto*
+3. Tu te rends dans le dossier importé depuis github => *cd NomDossier*
+4. Créer un fichier que tu modifie => *mk MonFichier* ou *mkdir MonDossier*
+5. Ensuite tu ajoutes à l'index => *git add .*
+6. Puis la validation des modifications => *git commit -m "monmessage"*
+7. Puis l'envoi des fichiers modifiés vers le dossier distant => *git push*
+
+### Tips
+- Déplacer un fichier d'un endroit à un autre **cp /chemin/de/ton/fichier espace /chemin/de/destination**
